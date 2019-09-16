@@ -1,0 +1,39 @@
+{
+    "add_hover_pressed": true,
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 20,
+        "width": 100
+    },
+    "display": "Repeating symbol",
+    "edit_mode_image": "//s3.amazonaws.com/appforest_uf/f1552332256566x504335188628003400/Screenshot%202019-03-11%20at%2015.23.50.png",
+    "fields": {
+        "AAD": {
+            "caption": "Icon",
+            "default_val": "★",
+            "editor": "StaticText",
+            "in_style": false,
+            "name": "icon",
+            "rank": 0
+        },
+        "AAE": {
+            "caption": "Number",
+            "default_val": 5,
+            "editor": "DynamicValue",
+            "name": "number",
+            "rank": 1,
+            "value": "number"
+        }
+    },
+    "icon": "ion-android-checkbox-blank",
+    "property_applications": {
+        "Background": true,
+        "Border": true,
+        "BoxShadow": true,
+        "Font": true,
+        "MinWidth": true,
+        "Padding": true,
+        "resizable": true
+    }
+}
